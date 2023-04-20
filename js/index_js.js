@@ -83,12 +83,12 @@ sign_up.addEventListener("click", () => {
 });
 
 log_in.addEventListener("click", () => {
-  window.location.href = "/loginpage.html";
+  window.location.href = "../loginpage.html";
 });
 
 //forgot button
 forgot_btn.addEventListener("click", () => {
-  window.location.href = "Forgot_Password.html";
+  window.location.href = "../Forgot_Password.html";
 });
 
 // ***************************************************************8
